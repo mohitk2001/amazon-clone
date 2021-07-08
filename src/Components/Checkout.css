@@ -1,0 +1,15 @@
+.checkout_ad{
+    width: 100%;
+    object-fit: contain;
+}
+.oops{
+    width: 100%;
+    height: 250px;
+    object-fit: contain;
+}
+.checkout{
+    display: flex;
+    padding: 20px;
+    background-color: white;
+    height: max-content;
+}
